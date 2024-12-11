@@ -62,7 +62,7 @@ void rozgrywka(int liczGraczy, int liczMafii) {
 		liczMafii < (liczGraczy - liczMafii)
 		) {
 
-		//etapy gry
+		//etapy gry /
 		cout << "Dzień nr : " << liczbaDni << endl;
 
 		//faza dnia
