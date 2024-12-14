@@ -1,4 +1,7 @@
-﻿  ConsoleApplication1proste losowanie.cpp
-  NowaGra.cpp
-  Generowanie kodu...
+﻿  NowaGra.cpp
+D:\programowanie\mafiaOnline\mafiaOnline Scripts\mafiaOnline\ConsoleApplication1proste losowanie\NowaGra.cpp(51,51): warning C4267: "argument": konwersja z "size_t" do "_Ty", możliwa utrata danych
+D:\programowanie\mafiaOnline\mafiaOnline Scripts\mafiaOnline\ConsoleApplication1proste losowanie\NowaGra.cpp(51,51): warning C4267:         with
+D:\programowanie\mafiaOnline\mafiaOnline Scripts\mafiaOnline\ConsoleApplication1proste losowanie\NowaGra.cpp(51,51): warning C4267:         [
+D:\programowanie\mafiaOnline\mafiaOnline Scripts\mafiaOnline\ConsoleApplication1proste losowanie\NowaGra.cpp(51,51): warning C4267:             _Ty=int
+D:\programowanie\mafiaOnline\mafiaOnline Scripts\mafiaOnline\ConsoleApplication1proste losowanie\NowaGra.cpp(51,51): warning C4267:         ]
   ConsoleApplication1proste losowanie.vcxproj -> D:\programowanie\mafiaOnline\mafiaOnline Scripts\mafiaOnline\x64\Debug\ConsoleApplication1proste losowanie.exe

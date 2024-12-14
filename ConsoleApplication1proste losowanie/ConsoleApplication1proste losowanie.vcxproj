@@ -127,17 +127,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BotGracz.cpp" />
     <ClCompile Include="ConsoleApplication1proste losowanie.cpp" />
     <ClCompile Include="Gracz.cpp" />
     <ClCompile Include="Kod.cpp" />
     <ClCompile Include="NowaGra.cpp" />
-    <ClCompile Include="Rozgrywka.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BotGracz.h" />
     <ClInclude Include="Gracz.h" />
     <ClInclude Include="Kod.h" />
     <ClInclude Include="NowaGra.h" />
-    <ClInclude Include="Rozgrywka.h" />
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ConsoleApplication1proste losowanie.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

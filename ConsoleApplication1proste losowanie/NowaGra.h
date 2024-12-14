@@ -1,5 +1,12 @@
 #pragma once
 #include "Kod.h"
+#include <vector>
+#include <iostream>
+#include <string>
+#include "Gracz.h"
+
+using namespace std;
+
 class NowaGra : 
 	public Kod
 {
@@ -12,7 +19,9 @@ public:
 
 	void wypiszGraczy();
 
-	//tworzenie botow
+	
+
+
 
 private:
 	int liczbaObywateli;
@@ -21,6 +30,16 @@ private:
 	int liczbaZywychMafiozow;
 
 	void wypiszInfo1(string napis1, int liczba);
+
+	//tworzenie botow
+	vector<Gracz> gracze;
+	vector<string> imionaBotow = {
+		"1Adam", "2Beata", "3Cezary", "4Diana", "5Emilia",
+		"6Filip", "7Grzegorz", "8Helena", "9Igor", "10Julia",
+		"11Karol", "12Lena", "13Marek", "14Natalia", "15Oskar"
+	};
+
+	void inicjalizacjaGry();
 
 };
 

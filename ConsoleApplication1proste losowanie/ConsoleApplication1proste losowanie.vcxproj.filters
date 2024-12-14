@@ -18,9 +18,6 @@
     <ClCompile Include="ConsoleApplication1proste losowanie.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
-    <ClCompile Include="Rozgrywka.cpp">
-      <Filter>Pliki źródłowe</Filter>
-    </ClCompile>
     <ClCompile Include="Gracz.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
@@ -30,11 +27,11 @@
     <ClCompile Include="Kod.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
+    <ClCompile Include="BotGracz.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Rozgrywka.h">
-      <Filter>Pliki nagłówkowe</Filter>
-    </ClInclude>
     <ClInclude Include="Gracz.h">
       <Filter>Pliki nagłówkowe</Filter>
     </ClInclude>
@@ -44,5 +41,16 @@
     <ClInclude Include="Kod.h">
       <Filter>Pliki nagłówkowe</Filter>
     </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="BotGracz.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ConsoleApplication1proste losowanie.rc">
+      <Filter>Pliki zasobów</Filter>
+    </ResourceCompile>
   </ItemGroup>
 </Project>

@@ -7,7 +7,7 @@ using namespace std;
 
 class Gracz {
 public:
-	Gracz(string imie_T);
+	Gracz(string imie_T, int nr_T);
 
 	void wypiszInfo();
 	void zmienCzyObywatel();
