@@ -1,7 +1,13 @@
-﻿  NowaGra.cpp
-D:\programowanie\mafiaOnline\mafiaOnline Scripts\mafiaOnline\ConsoleApplication1proste losowanie\NowaGra.cpp(51,51): warning C4267: "argument": konwersja z "size_t" do "_Ty", możliwa utrata danych
-D:\programowanie\mafiaOnline\mafiaOnline Scripts\mafiaOnline\ConsoleApplication1proste losowanie\NowaGra.cpp(51,51): warning C4267:         with
-D:\programowanie\mafiaOnline\mafiaOnline Scripts\mafiaOnline\ConsoleApplication1proste losowanie\NowaGra.cpp(51,51): warning C4267:         [
-D:\programowanie\mafiaOnline\mafiaOnline Scripts\mafiaOnline\ConsoleApplication1proste losowanie\NowaGra.cpp(51,51): warning C4267:             _Ty=int
-D:\programowanie\mafiaOnline\mafiaOnline Scripts\mafiaOnline\ConsoleApplication1proste losowanie\NowaGra.cpp(51,51): warning C4267:         ]
-  ConsoleApplication1proste losowanie.vcxproj -> D:\programowanie\mafiaOnline\mafiaOnline Scripts\mafiaOnline\x64\Debug\ConsoleApplication1proste losowanie.exe
+﻿  BotGracz.cpp
+  ConsoleApplication1proste losowanie.cpp
+  Gracz.cpp
+  Kod.cpp
+  NowaGra.cpp
+C:\Users\THINKPAD\Desktop\PROGRAMOWANIE\mafiaOnline\scripts\ConsoleApplication1proste losowanie\ConsoleApplication1proste losowanie\NowaGra.cpp(51,51): warning C4267: "argument": konwersja z "size_t" do "_Ty", możliwa utrata danych
+C:\Users\THINKPAD\Desktop\PROGRAMOWANIE\mafiaOnline\scripts\ConsoleApplication1proste losowanie\ConsoleApplication1proste losowanie\NowaGra.cpp(51,51): warning C4267:         with
+C:\Users\THINKPAD\Desktop\PROGRAMOWANIE\mafiaOnline\scripts\ConsoleApplication1proste losowanie\ConsoleApplication1proste losowanie\NowaGra.cpp(51,51): warning C4267:         [
+C:\Users\THINKPAD\Desktop\PROGRAMOWANIE\mafiaOnline\scripts\ConsoleApplication1proste losowanie\ConsoleApplication1proste losowanie\NowaGra.cpp(51,51): warning C4267:             _Ty=int
+C:\Users\THINKPAD\Desktop\PROGRAMOWANIE\mafiaOnline\scripts\ConsoleApplication1proste losowanie\ConsoleApplication1proste losowanie\NowaGra.cpp(51,51): warning C4267:         ]
+  Generowanie kodu...
+  LINK : nie znaleziono elementu C:\Users\THINKPAD\Desktop\PROGRAMOWANIE\mafiaOnline\scripts\ConsoleApplication1proste losowanie\x64\Debug\ConsoleApplication1proste losowanie.exe ani nie został on skompilowany podczas ostatniego konsolidowania przyrostowego; zostanie wykonana pełna konsolidacja
+  ConsoleApplication1proste losowanie.vcxproj -> C:\Users\THINKPAD\Desktop\PROGRAMOWANIE\mafiaOnline\scripts\ConsoleApplication1proste losowanie\x64\Debug\ConsoleApplication1proste losowanie.exe

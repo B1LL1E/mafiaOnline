@@ -16,6 +16,7 @@ public:
 	/*domyslnie 
 	10 obywateli
 	2 mafiozów*/
+	NowaGra(int liczbObywateli_T, int liczbaMafiozow_T);
 
 	void wypiszGraczy();
 

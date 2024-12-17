@@ -17,6 +17,17 @@ NowaGra::NowaGra():
 	inicjalizacjaGry();
 }
 
+NowaGra::NowaGra(int liczbaObywateli_T, int liczbaMafiozow_T) :
+	Kod(),
+	liczbaObywateli(liczbaObywateli_T),
+	liczbaMafiozow(liczbaMafiozow_T),
+	liczbaZywychObywateli(liczbaObywateli_T),
+	liczbaZywychMafiozow(liczbaMafiozow_T)
+{
+	wypiszGraczy();
+	inicjalizacjaGry();
+}
+
 void NowaGra::wypiszGraczy() {
 	cout << "Tworzenie nowej gry" << endl;
 	wyswietlKod();
